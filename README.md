@@ -41,7 +41,7 @@ The goal of this project is to detect which stocks are most at risk of a crowdin
 
 **🎥 Watch Dashboard Demo**
 
-[![Dashboard Demo](./demo.gif)](https://drive.google.com/uc?export=download&id=1qIjBAIkp4fg03G1NEiRU2iOe4_mPzoiL)  
+[![Watch Dashboard](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/uc?export=download&id=1qIjBAIkp4fg03G1NEiRU2iOe4_mPzoiL)  
 
 Click the GIF to watch the full dashboard demo.
 
