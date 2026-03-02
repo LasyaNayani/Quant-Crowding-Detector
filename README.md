@@ -43,6 +43,7 @@ The goal of this project is to detect which stocks are most at risk of a crowdin
 
 [![Watch Dashboard](./demo.gif)](https://drive.google.com/file/d/1wkE6GhY76rq9JoyftyVqjJp4ZUBRHFE8/view?usp=sharing)
 
+
 **Colab Notebook Reference**
 
 The full workflow and experiments are available in our Google Colab notebook:
