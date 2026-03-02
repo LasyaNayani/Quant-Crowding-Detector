@@ -30,13 +30,13 @@ The goal of this project is to detect which stocks are most at risk of a crowdin
 
 5. Developed an interactive Streamlit dashboard with:
 
-*(A). Crowding scores and top-risk stocks*
+   *(A). Crowding scores and top-risk stocks*
 
-*(B). Exit difficulty vs fund concentration risk map*
+   *(B). Exit difficulty vs fund concentration risk map*
 
-*(C). Factor performance charts with historical stress events*
+   *(C). Factor performance charts with historical stress events*
 
-*(D). AI-powered risk brief and Q&A layer*
+   *(D). AI-powered risk brief and Q&A layer*
 
 
 **🎥 Watch Dashboard Demo**
