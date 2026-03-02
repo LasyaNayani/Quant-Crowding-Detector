@@ -41,9 +41,8 @@ The goal of this project is to detect which stocks are most at risk of a crowdin
 
 **🎥 Watch Dashboard Demo**
 
-[![Watch Dashboard](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/file/d/1wkE6GhY76rq9JoyftyVqjJp4ZUBRHFE8/preview)  
-
-Click the GIF to watch the full dashboard demo.
+Watch the full dashboard demo on Google Drive:  
+[Open Dashboard Video](https://drive.google.com/file/d/1wkE6GhY76rq9JoyftyVqjJp4ZUBRHFE8/view?usp=sharing)
 
 **Colab Notebook Reference**
 
