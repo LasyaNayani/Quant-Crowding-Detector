@@ -54,10 +54,3 @@ The full workflow and experiments are available in our Google Colab notebook:
 
 
 
-
-
-
-
-**🎥 Watch Dashboard Demo**
-
-[![Watch Dashboard](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/file/d/VIDEO_ID/view?usp=sharing)
